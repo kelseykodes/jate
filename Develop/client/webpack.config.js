@@ -25,7 +25,6 @@ module.exports = () => {
         swSrc: './src-sw.js',
       }), 
     ],
-// TODO: Add CSS loaders and babel to webpack.
     module: {
       rules: [
         {
