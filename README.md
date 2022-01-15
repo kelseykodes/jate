@@ -4,8 +4,7 @@ just another text editor!
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-As an party host I want an event planner accountability application so that I can organize my gatherings with helpful suggestions to guide me thoroughly plan a successful, active celebration. 
-
+A text editor that runs in the browser. This application is a single-page application that features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. This application can also function offline.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -20,7 +19,6 @@ As an party host I want an event planner accountability application so that I ca
 
 ## Heroku
 - <a href="">Heroku Deployment</a>
-- Webpage Preview Screen:
 
 
 ## License
