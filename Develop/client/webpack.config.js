@@ -22,7 +22,7 @@ module.exports = () => {
         template: './index.html',
       }),
       new InjectManifest({
-        swSrc: './src/sw.js',
+        swSrc: './src-sw.js',
       }), 
     ],
 // TODO: Add CSS loaders and babel to webpack.
